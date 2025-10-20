@@ -1,0 +1,36 @@
+p{
+color:grey;
+background-color:yellow;
+}
+div{
+	backgrond-color:red;
+	color:blue;
+	padding:25px 50px 75px 100px;
+}
+p{
+	margin: 25px 100px;
+}
+/* footer*/
+footer {
+	background-color: #004080;
+	color: #fff;
+	text-align: center;
+	padding: 15px;
+	margin-top: 20px;
+}
+
+/* header */
+header h1{
+	background-color: aquamarine;
+	color: bisque;
+	margin-top: 2opx;
+}
+# card{
+	background-color: #fff;
+	padding:20px ;
+	flex: 1;
+	min-width: 300px;
+	text-align: center;
+	border-radius:8px ;
+	box-shadow: rgba(0,0,0,0.1);
+}
